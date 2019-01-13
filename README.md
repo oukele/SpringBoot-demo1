@@ -2,8 +2,8 @@
 搭建一个 SpringBoot + Hibernate + Gradle 项目
 
 一、Srping Boot
-1、spring boot 出现就是为了替代传统的配置方式，使用了注解的方式和 java 进行配置。 2、演变：xml、Annotation、Java Config
-
+1、spring boot 出现就是为了替代传统的配置方式，使用了注解的方式和 java 进行配置。 
+2、演变：xml、Annotation、Java Config
 3、特性：1、Starter （功能依赖）
 2、AutoConfiguration （自动配置）
 3、Cli （操作）
